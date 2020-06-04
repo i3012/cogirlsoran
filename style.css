@@ -1,0 +1,71 @@
+.diff{
+	font-size: 20px;
+	color: #59055A;
+}
+
+img{
+	width: 250Px;
+	padding: 1Px;
+	border: 1px solid #FB7C7C ;
+	margin-left: 450Px;
+	}
+
+#workspace{
+	/*#C10E6D;*/
+	text-decoration: underline;
+	color:#72D12B;
+
+}
+
+h2{
+	
+	text-decoration: underline;
+	color:#72D12B;
+
+}
+.creativity{
+	width: 800Px;
+	padding: 1Px;
+	border: 1px solid #FBFB00;
+	margin-left: 50Px;
+}
+
+
+h3{
+	
+	text-decoration: underline;
+	color:#FA72B4    ;}
+
+.wday{
+	width: 800Px;
+	padding: 10Px;
+	border: 1px solid #B67CFB;
+	margin-left: 50px;
+}
+
+.club{
+	width: 800Px;
+	padding: 10Px;
+	border: 1px solid #B67CFB;
+	margin-left: 50px;
+}
+
+.cd{
+	width: 800Px;
+	padding: 1Px;
+	border: 1px solid #B67CFB;
+	margin-left: 50px;
+}
+.crt{
+	width: 800Px;
+	padding-left: 200px;
+	border: 1px solid #B67CFB;
+	margin-left: 50px;
+}
+.workspace{
+    width: 800Px;
+
+	padding-left: 200px;
+	border: 1px solid #8A2255;
+	margin-left: 50px;
+}
