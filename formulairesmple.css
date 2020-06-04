@@ -1,0 +1,38 @@
+body{
+	    background : url(nature.jpg) ;
+	    background-size: cover;
+	    background-repeat: no-repeat;
+		border: solid 3px #C9FC99 ;
+		width: 500px;
+		margin: 400px;
+		padding: 50px;
+}
+
+
+#forml{
+	text-align: center;
+	border-radius: 12px;
+	box-sizing: border-box;
+}
+
+
+#inscription {
+	color: #F30557;
+	height: 50px;
+	font-weight: bold;
+	text-shadow: 2px 4px 4px #AB043E ;
+	font-size: 20px;
+}
+
+input {
+	margin: 8px;
+	background-color: transparent;
+	padding: 4px 6px ;
+	color: #fff;
+	font-weight: bold;
+}
+
+#button{
+    text-decoration:center;
+	color: black ;
+}
